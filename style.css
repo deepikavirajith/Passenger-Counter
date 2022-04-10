@@ -1,0 +1,34 @@
+h1 {
+  text-align: center;
+  color: darkviolet;
+}
+
+h2 {
+  text-align: center;
+  color: black;
+  margin-bottom: 10px
+}
+
+button {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  border: none;
+  width: 200px;
+  margin-bottom: 5px;
+  border-radius: 5px;
+  font-weight: bold;
+  color: white;
+}
+
+#btnIncrement {
+  background: darkred
+}
+
+#btnSave {
+  background: darkgreen
+}
+
+body {
+  background: lightyellow
+}
